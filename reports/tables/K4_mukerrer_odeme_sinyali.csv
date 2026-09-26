@@ -1,0 +1,445 @@
+case_id,rule,correction,category,spend_area,vendor,n_vci,n_ir,n_clr,net_worth
+2000000022_00001,K4,False,"3-way match, invoice after GR",Marketing,vendorID_0020,12,24,13,4312806.0
+2000013465_00001,K4,False,"3-way match, invoice after GR",Workforce Services,vendorID_0019,5,7,6,60621.0
+2000013527_00001,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0037,2,1,3,1180.0
+2000013569_00001,K4,False,"3-way match, invoice after GR",Workforce Services,vendorID_0017,8,9,9,77076.0
+2000013615_00001,K4,False,"3-way match, invoice after GR",Marketing,vendorID_1269,2,3,3,301376.0
+2000033513_00001,K4,False,"3-way match, invoice after GR",Marketing,vendorID_1224,3,4,4,51961.0
+4507000238_00240,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,514.0
+4507000238_00460,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,494.0
+4507000257_00170,K4,True,"3-way match, invoice before GR",Sales,vendorID_0127,1,1,2,746.0
+4507000538_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0217,1,1,2,40876.0
+4507000639_00010,K4,True,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0304,2,1,3,26327.0
+4507000672_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,6304.0
+4507000672_00020,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,374.0
+4507000672_00030,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,3148.0
+4507000703_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,4,4283.0
+4507000992_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0428,1,1,2,1350.0
+4507001166_00010,K4,False,"3-way match, invoice before GR",Latex & Monomers,vendorID_0184,1,2,2,20386.0
+4507001255_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0506,1,1,2,371.0
+4507001359_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,24214.0
+4507001565_00150,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,277.0
+4507001594_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0374,1,1,2,6599.0
+4507002117_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0106,2,3,3,19593.0
+4507002187_00090,K4,False,"3-way match, invoice before GR",Others,vendorID_0181,2,12,3,1436.0
+4507002231_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0713,1,1,2,638.0
+4507002231_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0713,1,1,2,2818.0
+4507002375_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,3347.0
+4507002486_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,41.0
+4507002798_00040,K4,True,"3-way match, invoice after GR",Sales,vendorID_0552,1,1,2,3425.0
+4507002913_00010,K4,False,"3-way match, invoice before GR",Solvents,vendorID_0198,1,1,2,1786.0
+4507003110_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0136,1,1,2,858.0
+4507003302_00010,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0122,1,1,2,897.0
+4507003995_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0300,1,2,2,12436.0
+4507004011_00220,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,573.0
+4507004011_00280,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,237.0
+4507004298_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0369,1,1,2,778.0
+4507004348_00030,K4,False,"3-way match, invoice after GR",Packaging,vendorID_0263,1,2,2,2387.0
+4507004405_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0559,1,1,2,9442.0
+4507004416_00090,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0136,1,1,2,151.0
+4507004460_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,17982.0
+4507004556_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1399.0
+4507004556_00020,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,2058.0
+4507004556_00050,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,7816.0
+4507004556_00060,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,17509.0
+4507004594_00110,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,270.0
+4507004607_00130,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,415.0
+4507004768_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0927,1,1,2,718.0
+4507005264_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0564,1,1,2,4714.0
+4507005362_00050,K4,True,"3-way match, invoice after GR",Trading & End Products,vendorID_0575,1,1,2,6.0
+4507005472_00290,K4,True,"3-way match, invoice after GR",Packaging,vendorID_0264,2,2,3,627.0
+4507006074_00310,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0264,1,2,2,1135.0
+4507006197_00030,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0251,1,1,2,2653.0
+4507006207_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,9319.0
+4507006248_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,7302.0
+4507006311_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0196,1,1,2,185.0
+4507006723_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0938,1,2,2,30189.0
+4507006788_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_1023,3,1,4,354392.0
+4507006789_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_1023,2,1,4,354392.0
+4507006879_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0225,1,1,2,1391.0
+4507006917_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0279,1,1,2,11790.0
+4507007120_00010,K4,False,"3-way match, invoice after GR",Logistics,vendorID_1034,6,8,7,346410.0
+4507007146_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_1039,2,1,5,3416.0
+4507007288_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0168,1,2,2,22949.0
+4507007378_00010,K4,False,"3-way match, invoice after GR",Trading & End Products,vendorID_1051,1,1,2,1330.0
+4507007590_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,3516.0
+4507007590_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,3360.0
+4507007605_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,1820.0
+4507007625_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,3516.0
+4507007625_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,3360.0
+4507007631_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0623,1,1,2,1804.0
+4507007772_00130,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,101.0
+4507007883_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_1023,2,1,3,355062.0
+4507007940_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_1017,1,1,2,26535.0
+4507007997_00070,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0350,1,2,2,7482.0
+4507008098_00020,K4,True,"3-way match, invoice after GR",Trading & End Products,vendorID_1080,2,1,3,13603.0
+4507008433_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0096,1,1,2,899.0
+4507008433_00020,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0096,1,1,2,899.0
+4507008568_00030,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_1095,1,1,2,5347.0
+4507008568_00040,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_1095,1,1,2,1587.0
+4507008568_00050,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_1095,1,1,2,744.0
+4507008568_00070,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_1095,1,1,2,749.0
+4507008568_00140,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_1095,1,1,2,10378.0
+4507008744_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0440,1,2,2,1649.0
+4507008977_00040,K4,True,"3-way match, invoice before GR",Additives,vendorID_0488,1,1,2,2459.0
+4507009005_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,679.0
+4507009386_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0129,1,1,2,961.0
+4507009386_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0129,1,1,2,480.0
+4507009501_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,42608.0
+4507009638_00010,K4,True,"3-way match, invoice after GR",Sales,vendorID_1140,1,1,2,520.0
+4507009790_00010,K4,False,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0144,1,3,2,12546.0
+4507009798_00230,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0104,1,2,2,11580.0
+4507009921_00380,K4,False,"3-way match, invoice after GR",Packaging,vendorID_0264,1,2,2,138.0
+4507010030_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0564,1,1,2,22512.0
+4507010070_00010,K4,True,"3-way match, invoice before GR",,vendorID_0175,1,1,2,4613.0
+4507010755_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0404,1,1,2,1172.0
+4507010755_00030,K4,True,"3-way match, invoice after GR",Sales,vendorID_0404,1,1,2,140.0
+4507010859_00230,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0264,2,1,3,163.0
+4507011071_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0374,1,1,2,1745.0
+4507011170_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,9319.0
+4507011811_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0979,1,1,2,9275.0
+4507011859_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0106,1,2,2,19601.0
+4507011887_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,10118.0
+4507011887_00020,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,5455.0
+4507011900_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,3697.0
+4507011987_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0763,1,1,2,12668.0
+4507011987_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0763,1,1,2,4248.0
+4507011991_00040,K4,True,"3-way match, invoice after GR",Sales,vendorID_0413,1,1,2,794.0
+4507012060_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0103,1,2,2,1284.0
+4507012109_00010,K4,False,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0787,2,3,3,7586.0
+4507012336_00200,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,2,2704.0
+4507012610_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0184,1,2,2,17724.0
+4507012743_00001,K4,True,"3-way match, invoice after GR",Logistics,vendorID_0534,1,3,2,1799.0
+4507012965_00020,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,708.0
+4507012968_00110,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0104,1,3,2,7239.0
+4507013035_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,4551.0
+4507014007_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,103.0
+4507014007_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,2,1,4,103.0
+4507014007_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,2,1,4,103.0
+4507014082_00030,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0274,1,2,2,1068.0
+4507014167_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,727.0
+4507014237_00010,K4,True,"3-way match, invoice before GR",Specialty Resins,vendorID_0546,1,1,2,19604.0
+4507014483_00010,K4,True,"3-way match, invoice before GR",Latex & Monomers,vendorID_0173,1,1,2,4139.0
+4507014650_00060,K4,False,"3-way match, invoice before GR",Sales,vendorID_0145,1,2,2,367.0
+4507014942_00010,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,7450.0
+4507015037_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,930.0
+4507015073_00001,K4,True,"3-way match, invoice after GR",Logistics,vendorID_0539,2,4,3,692.0
+4507015178_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0167,2,3,3,9648.0
+4507015394_00120,K4,True,"3-way match, invoice before GR",Sales,vendorID_0196,1,1,2,466.0
+4507015621_00050,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0106,1,4,2,35874.0
+4507015858_00030,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0391,2,2,3,148.0
+4507015933_00020,K4,False,"3-way match, invoice before GR",Latex & Monomers,vendorID_0300,1,3,3,27773.0
+4507015980_00010,K4,False,"3-way match, invoice before GR",Sales,vendorID_0724,1,1,2,8443.0
+4507015990_00030,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0136,1,1,2,134.0
+4507015990_00040,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0136,1,1,2,134.0
+4507016305_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0932,1,1,2,7501.0
+4507016306_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,311.0
+4507016454_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0564,1,1,2,18866.0
+4507016454_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0564,1,1,2,20021.0
+4507017314_00020,K4,False,"3-way match, invoice before GR",Sales,vendorID_0807,1,2,2,1628.0
+4507017459_00310,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,2,614.0
+4507017461_00120,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,2,1228.0
+4507017554_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0296,1,1,2,1881.0
+4507017641_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0129,1,1,2,1133.0
+4507018078_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0583,1,2,2,820.0
+4507018240_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0945,1,1,2,10499.0
+4507018480_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,2,2,3,332.0
+4507018653_00010,K4,True,"3-way match, invoice before GR",Latex & Monomers,vendorID_0184,1,1,2,43096.0
+4507018678_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,1519.0
+4507018678_00020,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,5461.0
+4507018994_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0341,2,1,3,3625.0
+4507019855_00230,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0106,1,2,2,15930.0
+4507020021_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0474,1,1,2,240.0
+4507020175_00080,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0350,1,2,2,3597.0
+4507020184_00170,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0527,2,3,3,11887.0
+4507020254_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,2,1,3,101.0
+4507020461_00070,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0237,1,1,2,918.0
+4507020650_00140,K4,True,"3-way match, invoice before GR",Sales,vendorID_1382,1,1,2,3530.0
+4507020820_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0475,1,1,2,20150.0
+4507020820_00020,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0475,1,1,2,14018.0
+4507020820_00030,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0475,1,1,2,6835.0
+4507020848_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0268,1,1,2,2063.0
+4507020900_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0323,2,1,3,2169.0
+4507021078_00030,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,2,4612.0
+4507021210_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_1203,1,1,2,43301.0
+4507021324_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0106,2,15,4,59577.0
+4507021327_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0103,1,5,3,59577.0
+4507021425_00030,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1513.0
+4507021425_00050,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,2206.0
+4507021425_00060,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,2927.0
+4507021425_00090,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1567.0
+4507021425_00100,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1357.0
+4507021558_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0613,1,1,2,5289.0
+4507021709_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0613,1,1,2,2350.0
+4507021709_00020,K4,True,"3-way match, invoice before GR",Additives,vendorID_0613,1,1,2,2938.0
+4507021886_00150,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0182,1,1,2,151.0
+4507022060_00020,K4,True,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0304,2,1,3,13163.0
+4507022092_00050,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0106,1,2,2,1978.0
+4507022189_00110,K4,True,"3-way match, invoice before GR",Sales,vendorID_0268,1,1,2,24258.0
+4507022458_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0773,2,1,3,3122.0
+4507022642_00010,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_1123,1,2,2,14096.0
+4507022705_00020,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0106,1,2,2,3673.0
+4507023127_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0613,1,1,2,3055.0
+4507023143_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0689,1,1,2,793.0
+4507023334_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,1060.0
+4507023334_00020,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,4534.0
+4507023334_00030,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,13490.0
+4507023376_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,4321.0
+4507023515_00220,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0182,1,1,2,153.0
+4507023641_00030,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0182,1,1,2,1251.0
+4507024104_00640,K4,True,"3-way match, invoice before GR",Sales,vendorID_0372,1,1,2,701.0
+4507024864_00050,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0572,1,2,2,75420.0
+4507025098_00110,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0104,1,2,2,5817.0
+4507025265_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0106,1,4,2,29661.0
+4507025293_00160,K4,True,"3-way match, invoice before GR",Sales,vendorID_0114,1,1,3,1459.0
+4507025452_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0463,1,2,2,7532.0
+4507026530_00020,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,422.0
+4507026654_00010,K4,False,"3-way match, invoice after GR",Sales,vendorID_0236,2,3,3,245.0
+4507026800_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0106,2,4,3,19645.0
+4507027047_00120,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,2,3,3,1263.0
+4507027053_00050,K4,True,"3-way match, invoice before GR",Additives,vendorID_0488,1,1,2,2364.0
+4507027342_00030,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0274,1,2,2,2289.0
+4507027493_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,244.0
+4507028106_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0927,1,1,2,718.0
+4507028128_00050,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,2,2711.0
+4507028453_00010,K4,False,"3-way match, invoice after GR",Commodity Resins,vendorID_0321,1,1,2,2603.0
+4507028453_00020,K4,False,"3-way match, invoice after GR",Commodity Resins,vendorID_0321,1,1,2,2603.0
+4507028502_00090,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0176,1,1,2,22175.0
+4507028912_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0351,1,1,2,6713.0
+4507028912_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0351,1,1,2,7552.0
+4507028912_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0351,1,1,2,30840.0
+4507028912_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0351,1,1,2,5173.0
+4507028912_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0351,1,1,2,11329.0
+4507029249_00010,K4,True,"3-way match, invoice after GR",Additives,vendorID_0519,1,1,2,3983.0
+4507029694_00160,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0096,1,1,2,1026.0
+4507029767_00030,K4,True,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0404,1,1,2,975.0
+4507029937_00040,K4,True,"3-way match, invoice before GR",Additives,vendorID_0488,1,1,2,2364.0
+4507030262_00030,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0299,1,1,2,326.0
+4507030366_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0129,1,1,2,46.0
+4507030467_00140,K4,True,"3-way match, invoice before GR",Sales,vendorID_0559,1,1,2,1053.0
+4507030486_00040,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,1486.0
+4507030486_00090,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,312.0
+4507030486_00100,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,1157.0
+4507030486_00110,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,336.0
+4507030486_00130,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,1,2,2,1827.0
+4507030774_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0114,1,1,2,1382.0
+4507031410_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0103,2,11,4,7451.0
+4507031592_00190,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,1371.0
+4507031790_00050,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0178,2,3,3,3712.0
+4507032043_00020,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0656,2,1,3,6518.0
+4507032376_00030,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,311.0
+4507032397_00001,K4,False,"3-way match, invoice after GR",Logistics,vendorID_0534,2,6,3,1006.0
+4507032407_00010,K4,True,"3-way match, invoice before GR",Commodity Resins,vendorID_0701,2,1,3,40529.0
+4507032407_00020,K4,True,"3-way match, invoice before GR",Commodity Resins,vendorID_0701,2,1,3,4503.0
+4507033760_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1399.0
+4507033760_00020,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1544.0
+4507033760_00030,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,3,1,4,2586.0
+4507033760_00040,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,3,1,4,2668.0
+4507033760_00050,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1155.0
+4507033760_00060,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1247.0
+4507033760_00080,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1520.0
+4507033760_00100,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,406.0
+4507033760_00110,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1229.0
+4507033760_00130,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1459.0
+4507033760_00140,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,3,1,4,1199.0
+4507033760_00160,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,1606.0
+4507033760_00170,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,2,1,3,111.0
+4507033818_00010,K4,False,"3-way match, invoice after GR",Others,vendorID_0103,1,3,2,713.0
+4507033993_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0224,1,1,2,9006.0
+4507034104_00080,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,785.0
+4507034104_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,314.0
+4507034104_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,191.0
+4507034104_00110,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,321.0
+4507034104_00120,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,618.0
+4507034308_00020,K4,True,"3-way match, invoice before GR",Additives,vendorID_0296,1,1,2,3741.0
+4507034410_00320,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0550,1,1,2,243.0
+4507034410_00410,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0550,1,1,2,997.0
+4507034675_00040,K4,False,"3-way match, invoice before GR",,vendorID_0274,1,2,2,3388.0
+4507035064_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0637,1,2,2,678.0
+4507035870_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0127,1,1,2,2318.0
+4507035901_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0192,1,1,2,575.0
+4507035929_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0488,1,1,2,2364.0
+4507036222_00010,K4,True,"3-way match, invoice before GR",Commodity Resins,vendorID_0489,1,1,2,4356.0
+4507036582_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0184,1,2,2,7849.0
+4507036746_00020,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0420,1,2,2,20661.0
+4507037022_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0192,1,1,2,383.0
+4507037022_00020,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0192,1,1,2,766.0
+4507037198_00010,K4,False,"3-way match, invoice after GR",Sales,vendorID_0566,1,2,2,32907.0
+4507037458_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,64.0
+4507037458_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,155.0
+4507037458_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,538.0
+4507037458_00110,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,148.0
+4507037458_00220,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,142.0
+4507037458_00230,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,104.0
+4507037458_00330,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,436.0
+4507037809_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,969.0
+4507037822_00050,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,493.0
+4507038071_00040,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,2,2,489.0
+4507038083_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0369,1,1,2,972.0
+4507038313_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0224,1,1,2,6754.0
+4507038313_00030,K4,True,"3-way match, invoice before GR",Additives,vendorID_0224,1,1,2,7424.0
+4507038313_00040,K4,True,"3-way match, invoice before GR",,vendorID_0224,1,1,2,12470.0
+4507038418_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,56.0
+4507038418_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,233.0
+4507038418_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,11.0
+4507038418_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,1582.0
+4507038418_00160,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,508.0
+4507038418_00230,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,372.0
+4507038783_00110,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0106,1,1,2,4945.0
+4507038954_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507038955_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507038956_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507038957_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507038959_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507038963_00010,K4,True,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0963,1,1,2,112453.0
+4507039015_00460,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0197,1,2,2,2194.0
+4507039075_00130,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,171.0
+4507039075_00170,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,75.0
+4507039075_00240,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,61.0
+4507039075_00280,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,85.0
+4507039075_00290,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,23.0
+4507039075_00330,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,989.0
+4507039075_00340,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,457.0
+4507039075_00350,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,212.0
+4507039075_00360,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,1446.0
+4507039276_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,193.0
+4507039276_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,1013.0
+4507039511_00010,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0861,1,1,2,10215.0
+4507039803_00001,K4,False,"3-way match, invoice after GR",Logistics,vendorID_0538,1,2,2,1097.0
+4507039955_00110,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0103,1,1,2,417.0
+4507039955_00130,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0103,1,1,2,417.0
+4507039966_00130,K4,True,"3-way match, invoice before GR",Sales,vendorID_0114,1,1,2,524.0
+4507040192_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0156,1,2,2,19631.0
+4507040275_00120,K4,False,"3-way match, invoice before GR",Sales,vendorID_0236,2,3,3,1599.0
+4507040296_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_1397,1,1,2,932.0
+4507040342_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0681,1,1,2,9179.0
+4507040602_00140,K4,True,"3-way match, invoice before GR",Trading & End Products,vendorID_0118,1,1,2,129.0
+4507041414_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,1,1,3,2730.0
+4507041717_00010,K4,False,"3-way match, invoice before GR",Solvents,vendorID_0198,1,1,2,4321.0
+4507041764_00200,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0105,1,1,2,286.0
+4507041770_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0113,1,2,2,75281.0
+4508042075_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0369,1,1,2,972.0
+4508042075_00080,K4,True,"3-way match, invoice before GR",Sales,vendorID_0369,1,1,2,972.0
+4508042848_00100,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,2,3,3,3025.0
+4508043126_00030,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0206,1,1,2,3047.0
+4508043143_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0506,1,1,2,4193.0
+4508043171_00010,K4,True,"3-way match, invoice before GR",Latex & Monomers,vendorID_0669,1,1,2,3810.0
+4508043330_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0964,1,1,2,3442.0
+4508043506_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0927,1,1,2,718.0
+4508043762_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,5,2465.0
+4508043869_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_0681,1,1,2,9179.0
+4508044004_00010,K4,True,"3-way match, invoice before GR",Additives,vendorID_1387,1,1,2,58654.0
+4508044049_00010,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,1,1,2,1181.0
+4508044049_00020,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,1,1,2,614.0
+4508044049_00030,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0575,1,1,2,1631.0
+4508044123_00010,K4,False,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0479,1,2,2,23244.0
+4508044273_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0104,1,1,3,4786.0
+4508045313_00020,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,433.0
+4508045313_00030,K4,True,"3-way match, invoice after GR",Commodity Resins,vendorID_0321,2,1,3,2641.0
+4508045313_00040,K4,True,"3-way match, invoice before GR",Additives,vendorID_0321,2,1,3,8384.0
+4508045313_00060,K4,True,"3-way match, invoice after GR",Additives,vendorID_0321,2,1,3,6282.0
+4508045322_00010,K4,True,"3-way match, invoice before GR",Solvents,vendorID_0198,2,1,3,1820.0
+4508045411_00080,K4,True,"3-way match, invoice before GR",Sales,vendorID_0372,1,1,2,1082.0
+4508045504_00030,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0106,1,2,2,1222.0
+4508046273_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0113,1,2,2,870.0
+4508046305_00001,K4,False,"3-way match, invoice after GR",Logistics,vendorID_0539,1,2,2,727.0
+4508046468_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0181,1,2,2,2267.0
+4508046549_00010,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,4777.0
+4508046549_00020,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,3582.0
+4508046549_00030,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,3582.0
+4508046549_00040,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,5971.0
+4508046549_00050,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,5971.0
+4508046549_00060,K4,True,"3-way match, invoice before GR",Packaging,vendorID_0771,1,1,2,5971.0
+4508046575_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0113,1,2,2,10596.0
+4508046625_00010,K4,False,"3-way match, invoice before GR",Sales,vendorID_0236,1,2,2,4263.0
+4508047123_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0143,1,1,2,1039.0
+4508047141_00010,K4,False,"3-way match, invoice before GR",Commodity Resins,vendorID_0701,1,1,2,45033.0
+4508047868_00190,K4,True,"3-way match, invoice before GR",Sales,vendorID_0236,1,1,2,26.0
+4508047944_00010,K4,True,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0144,2,1,4,3388.0
+4508047971_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0571,1,1,2,99.0
+4508048709_00010,K4,False,"3-way match, invoice before GR",Titanium Dioxides,vendorID_0479,1,2,2,133811.0
+4508048794_00010,K4,True,"3-way match, invoice after GR",Commodity Resins,vendorID_0321,2,1,3,7924.0
+4508049758_00050,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0105,1,2,2,396.0
+4508050639_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0268,1,1,2,9863.0
+4508050940_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0481,1,1,2,607.0
+4508051765_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0571,1,1,2,483.0
+4508051850_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0381,1,1,2,168.0
+4508052533_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,49.0
+4508052997_00060,K4,True,"3-way match, invoice before GR",CAPEX & SOCS,vendorID_0237,1,1,2,3019.0
+4508053067_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0268,1,1,2,3920.0
+4508053320_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,2735.0
+4508053320_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,4452.0
+4508053394_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0127,1,1,2,768.0
+4508054178_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,6972.0
+4508054178_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,5499.0
+4508054178_00110,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,10512.0
+4508055116_00010,K4,False,"3-way match, invoice before GR",Others,vendorID_0419,1,1,2,86.0
+4508055360_00010,K4,False,"3-way match, invoice before GR",Packaging,vendorID_0130,1,2,2,2395.0
+4508055796_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0369,1,1,2,972.0
+4508055825_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,183.0
+4508055825_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,343.0
+4508055825_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,227.0
+4508055825_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,521.0
+4508055825_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,300.0
+4508055825_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,113.0
+4508055825_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,454.0
+4508055825_00080,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,227.0
+4508055825_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,113.0
+4508055825_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0905,1,1,2,183.0
+4508056977_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,5009.0
+4508057188_00010,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,14263.0
+4508057188_00030,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,1,2,2,1595.0
+4508057394_00010,K4,False,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0731,1,3,2,5954.0
+4508057510_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0111,1,1,2,2968.0
+4508058168_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,7477.0
+4508058168_00090,K4,True,"3-way match, invoice after GR",Sales,vendorID_0404,1,2,2,6928.0
+4508058169_00030,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,1,2,1903.0
+4508058169_00040,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,1,2,405.0
+4508058169_00120,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,1,2,2,2245.0
+4508058368_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0241,1,1,2,2772.0
+4508058527_00020,K4,True,"3-way match, invoice after GR",Trading & End Products,vendorID_1080,2,1,3,14056.0
+4508059063_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,54.0
+4508059063_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,50.0
+4508059063_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,101.0
+4508059063_00070,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,50.0
+4508059063_00080,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,203.0
+4508059063_00090,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,142.0
+4508059663_00070,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,10090.0
+4508059663_00080,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,8544.0
+4508059663_00090,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,757.0
+4508059663_00120,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,1,2,2,4586.0
+4508059894_00001,K4,True,"3-way match, invoice after GR",Logistics,vendorID_0534,1,3,2,78981.0
+4508060853_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,50.0
+4508060853_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,50.0
+4508060853_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,50.0
+4508060853_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,152.0
+4508060853_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,151.0
+4508060853_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,282.0
+4508061937_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,311.0
+4508061937_00020,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,2792.0
+4508062424_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,153.0
+4508062424_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,153.0
+4508062424_00050,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,153.0
+4508062424_00060,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,77.0
+4508062548_00010,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,1350.0
+4508062548_00040,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,15993.0
+4508062548_00050,K4,False,"3-way match, invoice before GR",Trading & End Products,vendorID_0404,1,2,2,5806.0
+4508062548_00080,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,4742.0
+4508062548_00100,K4,False,"3-way match, invoice before GR",Sales,vendorID_0404,1,2,2,345.0
+4508062548_00120,K4,False,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0404,1,2,2,1222.0
+4508062548_00140,K4,False,"3-way match, invoice before GR",Pigments & Colorants,vendorID_0404,1,2,2,1981.0
+4508062548_00160,K4,False,"3-way match, invoice after GR",Sales,vendorID_0404,1,3,2,2554.0
+4508062690_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,265.0
+4508063557_00100,K4,True,"3-way match, invoice before GR",Sales,vendorID_0114,1,1,2,310.0
+4508064464_00001,K4,False,"3-way match, invoice after GR",Logistics,vendorID_0233,1,2,2,536.0
+4508064763_00180,K4,True,"3-way match, invoice before GR",Sales,vendorID_0108,1,1,2,298.0
+4508064934_00010,K4,False,"3-way match, invoice before GR",Latex & Monomers,vendorID_0271,1,2,2,9835.0
+4508066319_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,110.0
+4508066319_00020,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,428.0
+4508066319_00030,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,154.0
+4508066319_00040,K4,True,"3-way match, invoice before GR",Sales,vendorID_0148,1,1,2,152.0
+4508067773_00450,K4,True,"3-way match, invoice before GR",Sales,vendorID_0110,1,1,2,287.0
+4508067878_00010,K4,False,"3-way match, invoice before GR",Additives,vendorID_0321,1,1,2,1060.0
+4508068908_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0114,1,1,2,124.0
+4508069373_00010,K4,True,"3-way match, invoice after GR",Commodity Resins,vendorID_0321,2,1,3,5282.0
+4508072590_00010,K4,True,"3-way match, invoice before GR",Sales,vendorID_0477,1,1,2,938.0

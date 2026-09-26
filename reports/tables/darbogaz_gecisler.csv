@@ -1,0 +1,75 @@
+activity,next_act,count,median_days,total_days,share_of_total_wait_pct
+Record Invoice Receipt,Clear Invoice,125242,37.2,5649637.0,35.3
+Record Goods Receipt,Record Invoice Receipt,106288,12.3,2226418.0,13.9
+Remove Payment Block,Clear Invoice,47053,27.6,1742481.0,10.9
+Create Purchase Order Item,Vendor creates invoice,98500,6.4,1170020.0,7.3
+Vendor creates invoice,Record Invoice Receipt,89649,4.6,1049469.0,6.6
+Create Purchase Order Item,Record Goods Receipt,60133,11.3,870287.0,5.4
+Record Invoice Receipt,Remove Payment Block,35752,8.3,784361.0,4.9
+Vendor creates invoice,Record Goods Receipt,103517,1.4,244900.0,1.5
+Record Goods Receipt,Vendor creates invoice,76900,0.6,244082.0,1.5
+Create Purchase Order Item,Change Quantity,10447,6.1,170229.0,1.1
+Clear Invoice,Cancel Invoice Receipt,1986,78.1,159454.0,1.0
+Receive Order Confirmation,Record Goods Receipt,18215,5.0,142120.0,0.9
+Clear Invoice,Record Invoice Receipt,2666,2.1,103723.0,0.6
+Receive Order Confirmation,Vendor creates invoice,9071,6.5,80404.0,0.5
+Change Quantity,Vendor creates invoice,5662,5.6,69487.0,0.4
+Record Invoice Receipt,Cancel Invoice Receipt,2191,12.4,66149.0,0.4
+Create Purchase Order Item,Delete Purchase Order Item,6114,1.0,56370.0,0.4
+Vendor creates invoice,Create Purchase Order Item,2411,12.3,50665.0,0.3
+Record Goods Receipt,Remove Payment Block,15365,0.4,49310.0,0.3
+Clear Invoice,Clear Invoice,2493,8.0,47965.0,0.3
+Change Quantity,Record Goods Receipt,7944,0.9,44088.0,0.3
+Record Invoice Receipt,Record Goods Receipt,14867,1.1,42623.0,0.3
+Vendor creates invoice,Clear Invoice,735,57.5,39853.0,0.2
+Create Purchase Requisition Item,Create Purchase Order Item,42120,0.4,38229.0,0.2
+Change Price,Vendor creates invoice,3050,4.7,38022.0,0.2
+Create Purchase Order Item,Change Price,5456,1.8,37232.0,0.2
+Change Price,Record Goods Receipt,2655,7.2,33992.0,0.2
+Vendor creates debit memo,Cancel Invoice Receipt,898,14.5,29046.0,0.2
+Change Approval for Purchase Order,Vendor creates invoice,644,25.5,27428.0,0.2
+Record Invoice Receipt,Change Price,1445,6.7,25676.0,0.2
+Record Goods Receipt,Clear Invoice,500,42.0,25211.0,0.2
+Change Price,Record Invoice Receipt,841,21.0,25144.0,0.2
+Change Price,Clear Invoice,607,30.8,22003.0,0.1
+Record Invoice Receipt,Record Invoice Receipt,3198,0.1,20892.0,0.1
+Cancel Invoice Receipt,Clear Invoice,2506,0.0,20126.0,0.1
+Vendor creates debit memo,Record Invoice Receipt,1026,8.4,17850.0,0.1
+Cancel Goods Receipt,Vendor creates debit memo,501,14.7,17298.0,0.1
+Create Purchase Order Item,Record Invoice Receipt,1659,2.1,15795.0,0.1
+Create Purchase Order Item,Receive Order Confirmation,28401,0.1,15545.0,0.1
+Change Price,Change Quantity,876,6.8,15095.0,0.1
+Clear Invoice,Remove Payment Block,605,12.0,14402.0,0.1
+Change Approval for Purchase Order,Release Purchase Order,618,4.0,13331.0,0.1
+Record Invoice Receipt,Vendor creates debit memo,605,9.5,11499.0,0.1
+Change Quantity,Record Invoice Receipt,677,7.9,11490.0,0.1
+Change Delivery Indicator,Record Invoice Receipt,547,11.9,10910.0,0.1
+Receive Order Confirmation,Delete Purchase Order Item,1157,6.4,10722.0,0.1
+Change Quantity,Change Quantity,2054,0.1,10537.0,0.1
+Record Goods Receipt,Change Price,661,6.9,9940.0,0.1
+Create Purchase Order Item,Vendor creates debit memo,985,4.6,9893.0,0.1
+Vendor creates invoice,Change Quantity,2331,1.7,9324.0,0.1
+Record Invoice Receipt,Vendor creates invoice,2849,0.3,8490.0,0.1
+Record Goods Receipt,Record Goods Receipt,11974,0.0,6264.0,0.0
+Change Price,Change Price,672,0.8,6177.0,0.0
+Record Invoice Receipt,Change Quantity,547,4.1,6109.0,0.0
+Create Purchase Order Item,Cancel Goods Receipt,915,2.4,5751.0,0.0
+Record Goods Receipt,Vendor creates debit memo,695,1.6,4890.0,0.0
+Vendor creates invoice,Change Price,769,2.5,4792.0,0.0
+Vendor creates invoice,Vendor creates invoice,609,4.0,4221.0,0.0
+Release Purchase Order,Change Approval for Purchase Order,1412,0.0,4182.0,0.0
+Record Goods Receipt,Change Quantity,984,0.9,3858.0,0.0
+Create Purchase Order Item,Change Approval for Purchase Order,2257,0.3,3645.0,0.0
+Cancel Invoice Receipt,Record Invoice Receipt,1702,0.0,3190.0,0.0
+Vendor creates debit memo,Record Goods Receipt,894,2.4,2787.0,0.0
+Cancel Invoice Receipt,Remove Payment Block,618,0.4,2757.0,0.0
+Change Quantity,Change Price,672,0.6,2579.0,0.0
+Record Goods Receipt,Change Delivery Indicator,735,1.0,2572.0,0.0
+Change Price,Remove Payment Block,1318,0.0,2329.0,0.0
+Create Purchase Order Item,Release Purchase Order,660,4.7,2058.0,0.0
+Vendor creates invoice,Vendor creates debit memo,1993,0.0,1776.0,0.0
+Cancel Goods Receipt,Record Goods Receipt,519,0.0,1521.0,0.0
+Record Goods Receipt,Cancel Goods Receipt,594,0.0,1402.0,0.0
+Vendor creates debit memo,Vendor creates invoice,2013,0.0,648.0,0.0
+Change Approval for Purchase Order,Receive Order Confirmation,715,0.0,151.0,0.0
+Receive Order Confirmation,Create Purchase Order Item,1670,0.0,0.0,0.0

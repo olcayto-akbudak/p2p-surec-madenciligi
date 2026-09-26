@@ -1,0 +1,11 @@
+variant,cases,pct
+Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,47955,21.7
+Create Purchase Order Item > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Clear Invoice,29407,13.31
+Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Remove Payment Block > Clear Invoice,10852,4.91
+Create Purchase Order Item > Vendor creates invoice > Record Invoice Receipt > Record Goods Receipt > Remove Payment Block > Clear Invoice,8836,4.0
+Create Purchase Requisition Item > Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,8673,3.92
+Create Purchase Order Item > Receive Order Confirmation > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Clear Invoice,8512,3.85
+Create Purchase Order Item > Record Goods Receipt > Vendor creates invoice > Record Invoice Receipt > Remove Payment Block > Clear Invoice,7693,3.48
+Create Purchase Order Item > Delete Purchase Order Item,4788,2.17
+Create Purchase Order Item > Receive Order Confirmation > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt > Clear Invoice,4189,1.9
+Create Purchase Requisition Item > Create Purchase Order Item > Vendor creates invoice > Record Goods Receipt > Record Invoice Receipt,4155,1.88
