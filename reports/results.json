@@ -1,0 +1,301 @@
+{
+  "data_quality": {
+    "events": 1595923,
+    "cases": 251734,
+    "purchase_orders": 76349,
+    "vendors": 1975,
+    "activities": 42,
+    "out_of_window_events": 327,
+    "out_of_window_cases": 271,
+    "oldest_ts": "1948-01-26 23:59:00",
+    "newest_ts": "2020-04-09 23:59:00",
+    "cases_net_worth_varies_pct": 1.84,
+    "day_precision_activities": {
+      "Vendor creates invoice": 100.0,
+      "Vendor creates debit memo": 100.0
+    }
+  },
+  "compliance": {
+    "category_cases": {
+      "2-way match": 1044,
+      "3-way match, invoice after GR": 15182,
+      "3-way match, invoice before GR": 221010,
+      "Consignment": 14498
+    },
+    "K1_ir_before_gr": {
+      "checked": 11128,
+      "violations": 0
+    },
+    "K2_paid_without_gr": {
+      "checked": 183374,
+      "paid_no_gr": 566,
+      "paid_before_first_gr": 89,
+      "flagged": 655,
+      "correction_flows": 585,
+      "real_exceptions": 70,
+      "real_exceptions_pct_of_paid": 0.038,
+      "real_exceptions_item_value_eur": 143982.0,
+      "real_exceptions_with_manual_block_release": 70,
+      "release_top_user": "user_015",
+      "release_top_user_share_in_exceptions_pct": 68.5,
+      "release_top_user_share_overall_pct": 35.8,
+      "top_vendor": "vendorID_0660",
+      "top_vendor_cases": 38,
+      "top_vendor_share_pct": 54.3,
+      "top_spend_area": "CAPEX & SOCS",
+      "top_spend_area_cases": 44
+    },
+    "K3_consignment_invoiced": {
+      "checked": 14498,
+      "violations": 0
+    },
+    "K4_duplicate_signal": {
+      "checked": 209259,
+      "extra_invoice_receipt": 1862,
+      "extra_ir_then_extra_clear": 109,
+      "extra_clear": 444,
+      "extra_clear_correction_flows": 312,
+      "extra_clear_clean": 132,
+      "extra_clear_clean_vendors": 54,
+      "extra_clear_clean_top10_vendor_share_pct": 59.8
+    }
+  },
+  "payment_run": {
+    "cases": 173121,
+    "clear_weekday_pct": {
+      "Pazartesi": 0.4,
+      "Salı": 1.1,
+      "Çarşamba": 3.3,
+      "Perşembe": 75.8,
+      "Cuma": 19.4,
+      "Cumartesi": 0.0,
+      "Pazar": 0.1
+    },
+    "invoice_to_clear_median_days": 64.0,
+    "invoice_to_clear_std_overall": 30.9,
+    "invoice_to_clear_std_within_vendor_median": 14.3,
+    "vendors_used_for_std": 337,
+    "block_effect": {
+      "naive_median_diff_days": 9.0,
+      "vendor_matched_median_diff_days": 1.0,
+      "vendor_matched_weighted_mean_diff_days": 2.1,
+      "vendors_matched": 174,
+      "blocked_cases_covered": 42823
+    }
+  },
+  "rework": {
+    "by_activity": [
+      {
+        "activity": "Remove Payment Block",
+        "cases": 55839,
+        "pct": 22.18
+      },
+      {
+        "activity": "Change Quantity",
+        "cases": 17590,
+        "pct": 6.99
+      },
+      {
+        "activity": "Change Price",
+        "cases": 11224,
+        "pct": 4.46
+      },
+      {
+        "activity": "Delete Purchase Order Item",
+        "cases": 8839,
+        "pct": 3.51
+      },
+      {
+        "activity": "Cancel Invoice Receipt",
+        "cases": 6471,
+        "pct": 2.57
+      },
+      {
+        "activity": "Cancel Goods Receipt",
+        "cases": 2470,
+        "pct": 0.98
+      }
+    ],
+    "any_rework_pct": 16.32
+  },
+  "block_release": {
+    "events": 57136,
+    "manual_events_pct": 73.0,
+    "cases_with_manual_release": 40615
+  },
+  "cycle_time": {
+    "cases": 173503,
+    "median_days": 77.3,
+    "p90_days": 128.0,
+    "blocked": {
+      "share_pct": 28.0,
+      "median_with": 86.8,
+      "median_without": 72.8,
+      "median_ready_to_release_days": 4.9,
+      "release_after_ready_pct": 95.9,
+      "median_release_to_clear_days": 29.3
+    },
+    "rework": {
+      "median_with": 94.2,
+      "median_without": 73.4
+    },
+    "ir_to_clear_median_days": 42.3,
+    "by_spend_area": [
+      {
+        "spend_area": "Packaging",
+        "cases": 73174,
+        "median_days": 99.3,
+        "blocked_pct": 32.9
+      },
+      {
+        "spend_area": "Additives",
+        "cases": 12119,
+        "median_days": 86.3,
+        "blocked_pct": 23.9
+      },
+      {
+        "spend_area": "Specialty Resins",
+        "cases": 1518,
+        "median_days": 86.1,
+        "blocked_pct": 35.6
+      },
+      {
+        "spend_area": "Solvents",
+        "cases": 1766,
+        "median_days": 85.1,
+        "blocked_pct": 31.4
+      },
+      {
+        "spend_area": "Pigments & Colorants",
+        "cases": 1823,
+        "median_days": 85.0,
+        "blocked_pct": 33.2
+      },
+      {
+        "spend_area": "Latex & Monomers",
+        "cases": 2743,
+        "median_days": 84.8,
+        "blocked_pct": 43.5
+      },
+      {
+        "spend_area": "Marketing",
+        "cases": 1042,
+        "median_days": 72.9,
+        "blocked_pct": 9.5
+      },
+      {
+        "spend_area": "Trading & End Products",
+        "cases": 16456,
+        "median_days": 63.3,
+        "blocked_pct": 19.9
+      },
+      {
+        "spend_area": "Others",
+        "cases": 1722,
+        "median_days": 56.2,
+        "blocked_pct": 22.5
+      },
+      {
+        "spend_area": "Sales",
+        "cases": 53257,
+        "median_days": 56.2,
+        "blocked_pct": 23.3
+      },
+      {
+        "spend_area": "CAPEX & SOCS",
+        "cases": 5131,
+        "median_days": 27.3,
+        "blocked_pct": 30.4
+      }
+    ],
+    "spend_area_blocked_vs_cycle_corr": 0.32
+  },
+  "bottlenecks_top10": [
+    {
+      "activity": "Record Invoice Receipt",
+      "next_act": "Clear Invoice",
+      "count": 125242,
+      "median_days": 37.2,
+      "total_days": 5649637.0,
+      "share_of_total_wait_pct": 35.3
+    },
+    {
+      "activity": "Record Goods Receipt",
+      "next_act": "Record Invoice Receipt",
+      "count": 106288,
+      "median_days": 12.3,
+      "total_days": 2226418.0,
+      "share_of_total_wait_pct": 13.9
+    },
+    {
+      "activity": "Remove Payment Block",
+      "next_act": "Clear Invoice",
+      "count": 47053,
+      "median_days": 27.6,
+      "total_days": 1742481.0,
+      "share_of_total_wait_pct": 10.9
+    },
+    {
+      "activity": "Create Purchase Order Item",
+      "next_act": "Vendor creates invoice",
+      "count": 98500,
+      "median_days": 6.4,
+      "total_days": 1170020.0,
+      "share_of_total_wait_pct": 7.3
+    },
+    {
+      "activity": "Vendor creates invoice",
+      "next_act": "Record Invoice Receipt",
+      "count": 89649,
+      "median_days": 4.6,
+      "total_days": 1049469.0,
+      "share_of_total_wait_pct": 6.6
+    },
+    {
+      "activity": "Create Purchase Order Item",
+      "next_act": "Record Goods Receipt",
+      "count": 60133,
+      "median_days": 11.3,
+      "total_days": 870287.0,
+      "share_of_total_wait_pct": 5.4
+    },
+    {
+      "activity": "Record Invoice Receipt",
+      "next_act": "Remove Payment Block",
+      "count": 35752,
+      "median_days": 8.3,
+      "total_days": 784361.0,
+      "share_of_total_wait_pct": 4.9
+    },
+    {
+      "activity": "Vendor creates invoice",
+      "next_act": "Record Goods Receipt",
+      "count": 103517,
+      "median_days": 1.4,
+      "total_days": 244900.0,
+      "share_of_total_wait_pct": 1.5
+    },
+    {
+      "activity": "Record Goods Receipt",
+      "next_act": "Vendor creates invoice",
+      "count": 76900,
+      "median_days": 0.6,
+      "total_days": 244082.0,
+      "share_of_total_wait_pct": 1.5
+    },
+    {
+      "activity": "Create Purchase Order Item",
+      "next_act": "Change Quantity",
+      "count": 10447,
+      "median_days": 6.1,
+      "total_days": 170229.0,
+      "share_of_total_wait_pct": 1.1
+    }
+  ],
+  "variants": {
+    "n_variants": 8620,
+    "top1_pct": 21.7,
+    "top10_pct": 61.1,
+    "singleton_variants": 6124
+  }
+}
